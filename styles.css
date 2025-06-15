@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9fafb;
+}
+header, footer {
+  padding: 1rem;
+}
+h1, h2 {
+  margin: 0.5rem 0;
+}
+marquee {
+  margin-top: 1rem;
+  font-weight: bold;
+}
